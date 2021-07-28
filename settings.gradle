@@ -1,2 +1,3 @@
 rootProject.name = "invoid"
 include ':app'
+include ':mylibrary'
